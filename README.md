@@ -2,6 +2,8 @@
 
 This repository contains a Messenger chatbot built with Python and powered by OpenAI's GPT-3.5 model. The chatbot uses the Quart framework and the Requests library to communicate with the Messenger API.
 
+The goal is to reproduce the relationship and phrasing of a real person, such as my girlfriend, inspired by Black Mirror's S2E1 Be Right Back.
+
 It is currently hosted on Azure App Services.
 
 ## Dependencies
