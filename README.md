@@ -19,11 +19,20 @@ Requests library
 
 ## Installation
 
-Clone this repository: `git clone https://github.com/yourusername/yourrepository.git`
-Install the dependencies: `pip install -r requirements.txt`
+Clone this repository: 
+
+`git clone https://github.com/yourusername/yourrepository.git`
+
+Install the dependencies:
+
+`pip install -r requirements.txt`
+
 Set up a Facebook Developer account and create a Messenger app.
 Configure your Messenger app to use your chatbot's URL.
-Run the chatbot: `hypercorn app:app --bind 0.0.0.0:8000`
+
+Run the chatbot:
+
+`hypercorn app:app --bind 0.0.0.0:8000`
 
 ## Usage
 
