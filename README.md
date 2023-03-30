@@ -21,7 +21,7 @@ Requests library
 
 Clone this repository: 
 
-`git clone https://github.com/yourusername/yourrepository.git`
+`git clone https://github.com/theopomies/iris_black_mirror.git`
 
 Install the dependencies:
 

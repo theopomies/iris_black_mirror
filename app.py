@@ -26,7 +26,7 @@ BOT_NAME = "Iris Black Mirror"
 
 
 @app.route("/")
-async def hello_world():
+async def index():
     return "<p>This is a chatbot! Please use messenger to talk to Iris ;)</p>"
 
 
