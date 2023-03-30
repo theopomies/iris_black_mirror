@@ -38,6 +38,8 @@ Run the chatbot:
 
 To use the Messenger chatbot, simply start a conversation with your Facebook page and send a message. The chatbot will respond using OpenAI's GPT-3.5 model.
 
+Note that the file `bot_secrets.py` has been gitignored, as it contains the system prompts and base conversations, fine-tuning the bot and conversation to fit the role and the personality of the cloned person.
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. We welcome all contributions!
